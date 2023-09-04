@@ -1,10 +1,15 @@
 
-<img width="250" align="right" src="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084">
-
+  
+  <br>
+    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250">
+ </abc>
+ 
 <h3 align="center">
   Welcome to Ali Al_Refaee's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -12,9 +17,9 @@
 </p> 
 
 - 🏢 I'm an embedded Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 As an embedded software student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with C, Proteus, and Git, or anything related to embedded system.
+- ⚡ Personal Facts: I love playing sports very much, especially football.
 
 
 ### Connect with Me :
