@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084">
 
 <h3 align="center">
   Welcome to Ali Al_Refaee's profile!
